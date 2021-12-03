@@ -1,0 +1,7 @@
+{
+  "PUBNUB_PUB_KEY": "change_me",
+  "PUBNUB_SUB_KEY": "change_me",
+  "SEALD_APP_ID": "change_me",
+  "SEALD_API_URL": "https://api.staging-0.seald.io",
+  "SEALD_KEYSTORAGE_URL": "https://ssks.staging-0.seald.io"
+}
